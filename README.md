@@ -1,3 +1,15 @@
 # UnicornDataVisualised
 
-![Slide 1](https://github.com/AkhilNagar/UnicornDataVisualised/StorySlides/CountrywiseData.jpg?raw=true)
+![](StorySlides/CountrywiseData.jpg)
+
+![](StorySlides/Industry.jpg)
+
+![](StorySlides/Investors.jpg)
+
+![](StorySlides/Company.jpg)
+
+![](StorySlides/UnicornTimeline.jpg)
+
+![](StorySlides/Country.jpg)
+
+![](StorySlides/IndianUnicorns.jpg)
